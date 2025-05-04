@@ -1,9 +1,9 @@
 # Aadi - An eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithAadi/Aadi-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Aadi-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Aadi-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithAadi_?style=social)](https://twitter.com/intent/follow?screen_name=codewithAadi_)
+![GitHub repo size](https://img.shields.io/github/repo-size/https://github.com/Adityashukla973/Aadi-ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/https://github.com/Adityashukla973/Aadi-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/https://github.com/Adityashukla973/Aadi-ecommerce-website?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/https://x.com/AdityaShuk13614?t=_yUfnY4-QPNvI2XV4yrm4A&s=09?style=social)](https://twitter.com/intent/follow?screen_name=codewithAadi_)
 
 Aadi is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
@@ -25,18 +25,18 @@ To install **Aadi**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithAadi/-ecommerce-website.git
+sudo git clone https://github.com/https://github.com/Adityashukla973/-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/https://github.com/Adityashukla973/Aadi -ecommerce-website.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://x.com/AdityaShuk13614?t=_yUfnY4-QPNvI2XV4yrm4A&s=09/codewithAadi).
 
 ## License
 
